@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryt3</h1>
 <h3 align="center">An ardent full-stack developer from Austria</h3>
-<img align="right" alt="coding" width="250" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="200" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on [CTF-Citadel](https://github.com/CTF-Citadel)
 
