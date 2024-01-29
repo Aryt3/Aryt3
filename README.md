@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryt3</h1>
 <h3 align="center">An ardent full-stack developer and ethical hacker from Austria</h3>
 
-- 🧑🏻‍💻 I'm part of the CTF-Team [P01s0n3d_Fl4g](https://ctftime.org/team/273774) and actively playing CTFs as [San1pkur](https://ctftime.org/user/176553)
+- 🧑🏻‍💻 I'm part of the CTF-Team [P01s0n3d_Fl4g](https://ctftime.org/team/273774) and actively playing CTFs as [Aryt3](https://ctftime.org/user/176553)
 
 - 🔭 I’m currently working on [CTF-Citadel](https://github.com/CTF-Citadel)
 
